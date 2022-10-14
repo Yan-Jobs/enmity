@@ -26,14 +26,6 @@
          "#14161A",
          "#14161A"
       ],
-      "BACKGROUND_MENTIONED":[
-         "#00B050",
-         "#00B050"
-      ],
-      "BACKGROUND_MENTIONED_HOVER":[
-         "#0070C0",
-         "#0070C0"
-      ],
       "BACKGROUND_MESSAGE_HOVER":[
          "#FF79FF",
          "#FF79FF"
@@ -47,8 +39,8 @@
          "#1F2125"
       ],
       "BACKGROUND_MODIFIER_ACCENT":[
-         "#ED7D31",
-         "#ED7D31"
+         "#fff",
+         "#fff"
       ],
       "BACKGROUND_MODIFIER_ACTIVE":[
          "#1F2125",
