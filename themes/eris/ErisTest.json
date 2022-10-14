@@ -87,8 +87,8 @@
          "#c2c2c2"
       ],
       "CHANNEL_ICON":[
-         "#7030A0",
-         "#7030A0"
+         "#fff",
+         "#fff"
       ],
       "CHANNELTEXTAREA_BACKGROUND":[
          "#00B050",
@@ -175,8 +175,8 @@
          "#c2c2c2"
       ],
       "INFO_DANGER_BACKGROUND":[
-         "#00B050",
-         "#00B050"
+         "#FF79FF",
+         "#FF79FF"
       ],
       "INFO_DANGER_FOREGROUND":[
          "#0070C0",
@@ -187,8 +187,8 @@
          "#FF79FF"
       ],
       "INFO_HELP_BACKGROUND":[
-         "#7030A0",
-         "#7030A0"
+         "#FF79FF",
+         "#FF79FF"
       ],
       "INFO_HELP_FOREGROUND":[
          "#FF0000",
@@ -199,12 +199,12 @@
          "#ED7D31"
       ],
       "INFO_POSITIVE_BACKGROUND":[
-         "#00FF00",
-         "#00FF00"
+         "#FF79FF",
+         "#FF79FF"
       ],
       "INFO_POSITIVE_FOREGROUND":[
-         "#00B050",
-         "#00B050"
+         "#FF79FF",
+         "#FF79FF"
       ],
       "INFO_POSITIVE_TEXT":[
          "#0070C0",
@@ -230,41 +230,37 @@
          "#FFFF00",
          "#FFFF00"
       ],
-      "INTERACTIVE_MUTED":[
-         "#00B050",
-         "#00B050"
-      ],
       "INTERACTIVE_NORMAL":[
          "#d0d1d4",
          "#d0d1d4"
       ],
       "LOGO_PRIMARY":[
-         "#FF79FF",
-         "#FF79FF"
+         "#1F2125",
+         "#1F2125"
       ],
       "SCROLLBAR_AUTO_SCROLLBAR_COLOR_THUMB":[
-         "#7030A0",
-         "#7030A0"
+         "#1F2125",
+         "#1F2125"
       ],
       "SCROLLBAR_AUTO_SCROLLBAR_COLOR_TRACK":[
          "#FF0000",
          "#FF0000"
       ],
       "SCROLLBAR_AUTO_THUMB":[
-         "#ED7D31",
-         "#ED7D31"
+         "#1F2125",
+         "#1F2125"
       ],
       "SCROLLBAR_AUTO_TRACK":[
          "#FFFF00",
          "#FFFF00"
       ],
       "SCROLLBAR_THIN_THUMB":[
-         "#00B050",
-         "#00B050"
+         "#1F2125",
+         "#1F2125"
       ],
       "SCROLLBAR_THIN_TRACK":[
-         "#0070C0",
-         "#0070C0"
+         "#1F2125",
+         "#1F2125"
       ],
       "STATUS_DANGER_BACKGROUND":[
          "#FF79FF",
@@ -275,16 +271,16 @@
          "#7030A0"
       ],
       "STATUS_POSITIVE_BACKGROUND":[
-         "#FF0000",
-         "#FF0000"
+         "#FF79FF",
+         "#FF79FF"
       ],
       "STATUS_POSITIVE_TEXT":[
          "#ED7D31",
          "#ED7D31"
       ],
       "STATUS_WARNING_BACKGROUND":[
-         "#FFFF00",
-         "#FFFF00"
+         "#FF79FF",
+         "#FF79FF"
       ],
       "STATUS_WARNING_TEXT":[
          "#00B050",
@@ -293,14 +289,6 @@
       "TEXTBOX_MARKDOWN_SYNTAX":[
          "#0070C0",
          "#0070C0"
-      ],
-      "TEXT_DANGER":[
-         "#FF79FF",
-         "#FF79FF"
-      ],
-      "TEXT_LINK":[
-         "#7030A0",
-         "#7030A0"
       ],
       "TEXT_LINK_LOW_SATURATION":[
          "#FF0000",
