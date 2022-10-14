@@ -1,0 +1,49 @@
+{
+	"name": "Eris",
+	"author": "Yan.#0001",
+	"version": "0.1",
+	"description": "Black, classic Discord theme... now on Enmity",
+	"authors": [ 
+		{
+			"name": "Yan.",
+			"id": "735538297815957584"
+		}
+	],
+	"theme_color_map": {
+		"KEYBOARD": ["#14161A", "#FFFFFF"],
+		"BACKGROUND_PRIMARY": ["#1F2125", "#FFFFFF"],
+		"BACKGROUND_SECONDARY": ["#1F2125", "#FFFFFF"],
+		"BACKGROUND_SECONDARY_ALT": ["#14161A", "#FFFFFF"],
+		"BACKGROUND_TERTIARY": ["#14161A", "#FFFFFF"],
+		"BACKGROUND_ACCENT": ["#1F2125", "#FFFFFF"],
+		"BACKGROUND_FLOATING": ["#14161A", "#FFFFFF"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#1F2125", "#FFFFFF"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#1F2125", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#1F2125", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#14161A", "#FFFFFF"],
+		"CHANNELS_DEFAULT": ["#c2c2c2", "#FFFFFF"],
+		"HEADER_PRIMARY": ["#ffffff", "#FFFFFF"],
+		"HEADER_SECONDARY": ["#c2c2c2", "#FFFFFF"],
+		"INTERACTIVE_ACTIVE": ["#ffffff", "#FFFFFF"],
+		"INTERACTIVE_NORMAL": ["#d0d1d4", "#FFFFFF"],
+		"TEXT_MUTED": ["#c2c2c2", "#FFFFFF"],
+		"TEXT_NORMAL": ["#ffffff", "#FFFFFF"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#FFFFFF",
+		"PRIMARY_DARK_100": "#FFFFFF",
+		"PRIMARY_DARK_300": "#FFFFFF",
+		"PRIMARY_DARK_360": "#FFFFFF",
+		"PRIMARY_DARK_400": "#FFFFFF",
+		"PRIMARY_DARK_500": "#FFFFFF",
+		"PRIMARY_DARK_600": "#FFFFFF",
+		"PRIMARY_DARK_630": "#FFFFFF",
+		"PRIMARY_DARK_700": "#FFFFFF",
+		"PRIMARY_DARK_800": "#FFFFFF",
+		"BRAND_NEW": "#FFFFFF",
+		"WHITE": "#FFFFFF"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#000000"
+	}
+}
