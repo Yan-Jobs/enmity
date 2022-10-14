@@ -1,295 +1,49 @@
 {
-   "name":"ErisTest",
-   "version":"0.1",
-   "description":"Black, classic Discord theme... now on Enmity",
-   "color":"#14161A",
-   "authors":[
-      {
-         "name":"Yan.",
-         "id":"735538297815957584"
-      }
-   ],
-   "theme_color_map":{
-      "KEYBOARD":[
-         "#14161A",
-         "#14161A"
-      ],
-      "ACTIVITY_CARD_BACKGROUND":[
-         "#FF0000",
-         "#FF0000"
-      ],
-      "BACKGROUND_ACCENT":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "BACKGROUND_FLOATING":[
-         "#14161A",
-         "#14161A"
-      ],
-      "BACKGROUND_MESSAGE_HOVER":[
-         "#FF79FF",
-         "#FF79FF"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT":[
-         "#fff",
-         "#fff"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "BACKGROUND_MODIFIER_HOVER":[
-         "#14161A",
-         "#14161A"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED":[
-         "#14161A",
-         "#14161A"
-      ],
-      "BACKGROUND_NESTED_FLOATING":[
-         "#14161A",
-         "#14161A"
-      ],
-      "BACKGROUND_PRIMARY":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "BACKGROUND_SECONDARY":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "BACKGROUND_SECONDARY_ALT":[
-         "#14161A",
-         "#14161A"
-      ],
-      "BACKGROUND_TERTIARY":[
-         "#14161A",
-         "#14161A"
-      ],
-      "CHANNELS_DEFAULT":[
-         "#c2c2c2",
-         "#c2c2c2"
-      ],
-      "CHANNEL_ICON":[
-         "#fff",
-         "#fff"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND":[
-         "#14161A",
-         "#14161A"
-      ],
-      "CONTROL_BRAND_FOREGROUND":[
-         "#14161A",
-         "#14161A"
-      ],
-      "CONTROL_BRAND_FOREGROUND_NEW":[
-         "#14161A",
-         "#14161A"
-      ],
-      "DEPRECATED_CARD_BG":[
-         "#14161A",
-         "#14161A"
-      ],
-      "DEPRECATED_CARD_EDITABLE_BG":[
-         "#14161A",
-         "#14161A"
-      ],
-      "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND":[
-         "#14161A",
-         "#14161A"
-      ],
-      "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER":[
-         "#fff",
-         "#fff"
-      ],
-      "DEPRECATED_STORE_BG":[
-         "#14161A",
-         "#14161A"
-      ],
-      "DEPRECATED_TEXT_INPUT_BG":[
-         "#fff",
-         "#fff"
-      ],
-      "DEPRECATED_TEXT_INPUT_BORDER":[
-         "#14161A",
-         "#14161A"
-      ],
-      "DEPRECATED_TEXT_INPUT_BORDER_DISABLED":[
-         "#14161A",
-         "#14161A"
-      ],
-      "DEPRECATED_TEXT_INPUT_BORDER_HOVER":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "DEPRECATED_TEXT_INPUT_PREFIX":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "ELEVATION_HIGH":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "ELEVATION_LOW":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "ELEVATION_MEDIUM":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "ELEVATION_STROKE":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "FOCUS_PRIMARY":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "GUILD_HEADER_TEXT_SHADOW":[
-         "#FF0000",
-         "#FF0000"
-      ],
-      "HEADER_PRIMARY":[
-         "#ffffff",
-         "#FFFFFF"
-      ],
-      "HEADER_SECONDARY":[
-         "#c2c2c2",
-         "#c2c2c2"
-      ],
-      "INFO_DANGER_BACKGROUND":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "INFO_DANGER_FOREGROUND":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "INFO_DANGER_TEXT":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "INFO_HELP_BACKGROUND":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "INFO_HELP_FOREGROUND":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "INFO_HELP_TEXT":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "INFO_POSITIVE_BACKGROUND":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "INFO_POSITIVE_FOREGROUND":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "INFO_POSITIVE_TEXT":[
-         "#0070C0",
-         "#0070C0"
-      ],
-      "INFO_WARNING_BACKGROUND":[
-         "#FF79FF",
-         "#FF79FF"
-      ],
-      "INFO_WARNING_FOREGROUND":[
-         "#7030A0",
-         "#7030A0"
-      ],
-      "INFO_WARNING_TEXT":[
-         "#FF0000",
-         "#FF0000"
-      ],
-      "INTERACTIVE_ACTIVE":[
-         "#ffffff",
-         "#FFFFFF"
-      ],
-      "INTERACTIVE_HOVER":[
-         "#FFFF00",
-         "#FFFF00"
-      ],
-      "INTERACTIVE_NORMAL":[
-         "#d0d1d4",
-         "#d0d1d4"
-      ],
-      "LOGO_PRIMARY":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "SCROLLBAR_AUTO_SCROLLBAR_COLOR_THUMB":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "SCROLLBAR_AUTO_SCROLLBAR_COLOR_TRACK":[
-         "#FF0000",
-         "#FF0000"
-      ],
-      "SCROLLBAR_AUTO_THUMB":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "SCROLLBAR_AUTO_TRACK":[
-         "#FFFF00",
-         "#FFFF00"
-      ],
-      "SCROLLBAR_THIN_THUMB":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "SCROLLBAR_THIN_TRACK":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "STATUS_DANGER_BACKGROUND":[
-         "#1F2125",
-         "#1F2125"
-      ],
-      "TEXTBOX_MARKDOWN_SYNTAX":[
-         "#0070C0",
-         "#0070C0"
-      ],
-      "TEXT_LINK_LOW_SATURATION":[
-         "#FF0000",
-         "#FF0000"
-      ],
-      "TEXT_MUTED":[
-         "#c2c2c2",
-         "#c2c2c2"
-      ],
-      "TEXT_NORMAL":[
-         "#ffffff",
-         "#FFFFFF"
-      ]
-   },
-   "colours":{
-      "PRIMARY_DARK":"#1F2125",
-      "PRIMARY_DARK_100":"#1F2125",
-      "PRIMARY_DARK_300":"#1F2125",
-      "PRIMARY_DARK_360":"#1F2125",
-      "PRIMARY_DARK_400":"#1F2125",
-      "PRIMARY_DARK_500":"#1F2125",
-      "PRIMARY_DARK_600":"#1F2125",
-      "PRIMARY_DARK_630":"#1F2125",
-      "PRIMARY_DARK_700":"#1F2125",
-      "PRIMARY_DARK_800":"#1F2125",
-      "BRAND_NEW":"#1F2125",
-      "WHITE":"#1F2125"
-   },
-   "unsafe_colors":{
-      "CHAT_GREY":"#1F2125"
-   }
+	"name": "Eris",
+	"author": "Yan.#0001",
+	"version": "0.1",
+	"description": "Black, classic Discord theme... now on Enmity",
+	"authors": [ 
+		{
+			"name": "Yan.",
+			"id": "735538297815957584"
+		}
+	],
+	"theme_color_map": {
+		"KEYBOARD": ["#14161A", "#14161A"],
+		"BACKGROUND_PRIMARY": ["#1F2125", "#1F2125"],
+		"BACKGROUND_SECONDARY": ["#1F2125", "#1F2125"],
+		"BACKGROUND_SECONDARY_ALT": ["#14161A", "#14161A"],
+		"BACKGROUND_TERTIARY": ["#14161A", "#14161A"],
+		"BACKGROUND_ACCENT": ["#1F2125", "#1F2125"],
+		"BACKGROUND_FLOATING": ["#14161A", "#14161A"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#1F2125", "#1F2125"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#1F2125", "#1F2125"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#1F2125", "#1F2125"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#14161A", "#14161A"],
+		"CHANNELS_DEFAULT": ["#c2c2c2", "#c2c2c2"],
+		"HEADER_PRIMARY": ["#ffffff", "#FFFFFF"],
+		"HEADER_SECONDARY": ["#c2c2c2", "#c2c2c2"],
+		"INTERACTIVE_ACTIVE": ["#ffffff", "#FFFFFF"],
+		"INTERACTIVE_NORMAL": ["#d0d1d4", "#d0d1d4"],
+		"TEXT_MUTED": ["#c2c2c2", "#c2c2c2"],
+		"TEXT_NORMAL": ["#ffffff", "#FFFFFF"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#1F2125",
+		"PRIMARY_DARK_100": "#1F2125",
+		"PRIMARY_DARK_300": "#1F2125",
+		"PRIMARY_DARK_360": "#1F2125",
+		"PRIMARY_DARK_400": "#1F2125",
+		"PRIMARY_DARK_500": "#1F2125",
+		"PRIMARY_DARK_600": "#1F2125",
+		"PRIMARY_DARK_630": "#1F2125",
+		"PRIMARY_DARK_700": "#1F2125",
+		"PRIMARY_DARK_800": "#1F2125",
+		"BRAND_NEW": "#1F2125",
+		"WHITE": "#1F2125"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#1F2125"
+	}
 }
