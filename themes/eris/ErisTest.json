@@ -263,28 +263,8 @@
          "#1F2125"
       ],
       "STATUS_DANGER_BACKGROUND":[
-         "#FF79FF",
-         "#FF79FF"
-      ],
-      "STATUS_DANGER_TEXT":[
-         "#7030A0",
-         "#7030A0"
-      ],
-      "STATUS_POSITIVE_BACKGROUND":[
-         "#FF79FF",
-         "#FF79FF"
-      ],
-      "STATUS_POSITIVE_TEXT":[
-         "#ED7D31",
-         "#ED7D31"
-      ],
-      "STATUS_WARNING_BACKGROUND":[
-         "#FF79FF",
-         "#FF79FF"
-      ],
-      "STATUS_WARNING_TEXT":[
-         "#00B050",
-         "#00B050"
+         "#1F2125",
+         "#1F2125"
       ],
       "TEXTBOX_MARKDOWN_SYNTAX":[
          "#0070C0",
@@ -301,14 +281,6 @@
       "TEXT_NORMAL":[
          "#ffffff",
          "#FFFFFF"
-      ],
-      "TEXT_POSITIVE":[
-         "#00B050",
-         "#00B050"
-      ],
-      "TEXT_WARNING":[
-         "#7030A0",
-         "#7030A0"
       ]
    },
    "colours":{
