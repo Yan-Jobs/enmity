@@ -135,32 +135,32 @@
          "#7030A0"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_HOVER":[
-         "#FF0000",
-         "#FF0000"
+         "#1F2125",
+         "#1F2125"
       ],
       "DEPRECATED_TEXT_INPUT_PREFIX":[
-         "#ED7D31",
-         "#ED7D31"
+         "#1F2125",
+         "#1F2125"
       ],
       "ELEVATION_HIGH":[
-         "#00FF00",
-         "#00FF00"
+         "#1F2125",
+         "#1F2125"
       ],
       "ELEVATION_LOW":[
-         "#00B050",
-         "#00B050"
+         "#1F2125",
+         "#1F2125"
       ],
       "ELEVATION_MEDIUM":[
-         "#0070C0",
-         "#0070C0"
+         "#1F2125",
+         "#1F2125"
       ],
       "ELEVATION_STROKE":[
-         "#FF79FF",
-         "#FF79FF"
+         "#1F2125",
+         "#1F2125"
       ],
       "FOCUS_PRIMARY":[
-         "#7030A0",
-         "#7030A0"
+         "#1F2125",
+         "#1F2125"
       ],
       "GUILD_HEADER_TEXT_SHADOW":[
          "#FF0000",
@@ -179,8 +179,8 @@
          "#1F2125"
       ],
       "INFO_DANGER_FOREGROUND":[
-         "#0070C0",
-         "#0070C0"
+         "#1F2125",
+         "#1F2125"
       ],
       "INFO_DANGER_TEXT":[
          "#1F2125",
@@ -191,8 +191,8 @@
          "#1F2125"
       ],
       "INFO_HELP_FOREGROUND":[
-         "#FF0000",
-         "#FF0000"
+         "#1F2125",
+         "#1F2125"
       ],
       "INFO_HELP_TEXT":[
          "#1F2125",
