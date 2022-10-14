@@ -55,16 +55,16 @@
          "#1F2125"
       ],
       "BACKGROUND_MODIFIER_HOVER":[
-         "#00B050",
-         "#00B050"
+         "#14161A",
+         "#14161A"
       ],
       "BACKGROUND_MODIFIER_SELECTED":[
          "#14161A",
          "#14161A"
       ],
       "BACKGROUND_NESTED_FLOATING":[
-         "#7030A0",
-         "#7030A0"
+         "#14161A",
+         "#14161A"
       ],
       "BACKGROUND_PRIMARY":[
          "#1F2125",
@@ -91,48 +91,48 @@
          "#fff"
       ],
       "CHANNELTEXTAREA_BACKGROUND":[
-         "#00B050",
-         "#00B050"
+         "#14161A",
+         "#14161A"
       ],
       "CONTROL_BRAND_FOREGROUND":[
-         "#0070C0",
-         "#0070C0"
+         "#14161A",
+         "#14161A"
       ],
       "CONTROL_BRAND_FOREGROUND_NEW":[
-         "#FF79FF",
-         "#FF79FF"
+         "#14161A",
+         "#14161A"
       ],
       "DEPRECATED_CARD_BG":[
-         "#7030A0",
-         "#7030A0"
+         "#14161A",
+         "#14161A"
       ],
       "DEPRECATED_CARD_EDITABLE_BG":[
-         "#FF0000",
-         "#FF0000"
+         "#14161A",
+         "#14161A"
       ],
       "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND":[
-         "#ED7D31",
-         "#ED7D31"
+         "#14161A",
+         "#14161A"
       ],
       "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER":[
-         "#FFFF00",
-         "#FFFF00"
+         "#fff",
+         "#fff"
       ],
       "DEPRECATED_STORE_BG":[
-         "#00B050",
-         "#00B050"
+         "#14161A",
+         "#14161A"
       ],
       "DEPRECATED_TEXT_INPUT_BG":[
-         "#0070C0",
-         "#0070C0"
+         "#fff",
+         "#fff"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER":[
-         "#FF79FF",
-         "#FF79FF"
+         "#14161A",
+         "#14161A"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_DISABLED":[
-         "#7030A0",
-         "#7030A0"
+         "#14161A",
+         "#14161A"
       ],
       "DEPRECATED_TEXT_INPUT_BORDER_HOVER":[
          "#1F2125",
