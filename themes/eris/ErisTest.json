@@ -175,36 +175,36 @@
          "#c2c2c2"
       ],
       "INFO_DANGER_BACKGROUND":[
-         "#FF79FF",
-         "#FF79FF"
+         "#1F2125",
+         "#1F2125"
       ],
       "INFO_DANGER_FOREGROUND":[
          "#0070C0",
          "#0070C0"
       ],
       "INFO_DANGER_TEXT":[
-         "#FF79FF",
-         "#FF79FF"
+         "#1F2125",
+         "#1F2125"
       ],
       "INFO_HELP_BACKGROUND":[
-         "#FF79FF",
-         "#FF79FF"
+         "#1F2125",
+         "#1F2125"
       ],
       "INFO_HELP_FOREGROUND":[
          "#FF0000",
          "#FF0000"
       ],
       "INFO_HELP_TEXT":[
-         "#ED7D31",
-         "#ED7D31"
+         "#1F2125",
+         "#1F2125"
       ],
       "INFO_POSITIVE_BACKGROUND":[
-         "#FF79FF",
-         "#FF79FF"
+         "#1F2125",
+         "#1F2125"
       ],
       "INFO_POSITIVE_FOREGROUND":[
-         "#FF79FF",
-         "#FF79FF"
+         "#1F2125",
+         "#1F2125"
       ],
       "INFO_POSITIVE_TEXT":[
          "#0070C0",
